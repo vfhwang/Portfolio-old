@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Victor Hwang
 email: vfhwang@gmail.com
-description: "London based designer — maker.&nbsp;At the moment working at UK Parliament,&nbsp; using and promoting design as a better way to understand and tackle complex problems.  Previously at the BBC."
+description: "London based designer — maker.&nbsp;At the moment working at UK Parliament,&nbsp; promoting and using design as a better way to understand and tackle complex problems.&nbsp; Previously at the BBC."
 # baseurl: "localhost:4000" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@_victorhwang"
